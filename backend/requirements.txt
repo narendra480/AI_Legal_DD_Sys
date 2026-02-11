@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-
+gunicorn
 langchain
 langchain-community
 langchain-core
@@ -16,3 +16,4 @@ python-dotenv
 
 tiktoken
 openai
+
