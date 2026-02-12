@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 gunicorn
+PyPDF2
 langchain
 langchain-community
 langchain-core
@@ -16,5 +17,6 @@ python-dotenv
 
 tiktoken
 openai
+
 
 
